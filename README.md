@@ -1,5 +1,5 @@
 # logic-gate-simulator-
- a logic gate simulator using pyhton 6 gates available 
+ a .....https://www.youtube.com/playlist?list=PL3INVeSSne3THlKZ2-v52V71nSss0n8_i.........kivy best tu....logic gate simulator using pyhton 6 gates available 
 conversion to apk
 https://possiblywrong.wordpress.com/2012/06/16/python-on-android/
 -----------more usabele https://github.com/renpytom/rapt-pygame-example
