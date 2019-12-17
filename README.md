@@ -1,9 +1,16 @@
 # logic-gate-simulator-
- a .......tutorial plus apk kivy .......https://www.youtube.com/playlist?list=PLdNh1e1kmiPP4YApJm8ENK2yMlwF1_edq ...https://www.youtube.com/playlist?list=PL3INVeSSne3THlKZ2-v52V71nSss0n8_i.........kivy best tu....logic gate simulator using pyhton 6 gates available 
+pygame to apk 
+https://youtu.be/9JVadDyipNM
+a tutorial for apk and apk kivy 
+https://www.youtube.com/playlist?list=PLdNh1e1kmiPP4YApJm8ENK2yMlwF1_edq
+kivy best tutorial 
+https://www.youtube.com/playlist?list=PL3INVeSSne3THlKZ2-v52V71nSss0n8_i 
 conversion to apk
 https://possiblywrong.wordpress.com/2012/06/16/python-on-android/
------------more usabele https://github.com/renpytom/rapt-pygame-example
-voc transpiler can be use to convert python code to java-------finally i find out qpython which can b helpful for android......https://qr.ae/Tc5egG..........QPython: QPython is an on-device script engine and development environment that enables you to build native-like Android apps. It’s development toolkit to develop programs with mobile providing regular Python console.
+useing RAPT to convert to apk 
+https://github.com/renpytom/rapt-pygame-example
+VOC transpiler can be use to convert python code to java
+finally i find out qpython which can b helpful for android......https://qr.ae/Tc5egG..........QPython: QPython is an on-device script engine and development environment that enables you to build native-like Android apps. It’s development toolkit to develop programs with mobile providing regular Python console.
 PySide: PySide (the Python binding for the Qt toolkit) offers you LGPL-licensed Python binding for the Qt4, which includes a complete toolchain for rapidly generating bindings for any Qt-based C++ class hierarchy.
 Termux: It is an Android terminal emulator and Linux environment application that does not need rooting or any setup for working. A minimal base system is automatically installed, with additional packages available to be downloaded using the API package manager.
 Beeware: Beeware is an open-source platform for creating enticing user interfaces and provides you with a complete package of libraries and support code that runs effectively on Android, iOS, tvOS, macOS, Linux, and more.
