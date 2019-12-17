@@ -1,6 +1,6 @@
 # logic-gate-simulator-
 pygame to apk 
-https://youtu.be/9JVadDyipNM
+https://youtu.be/9JVadDyipNM 
 a tutorial for apk and apk kivy 
 https://www.youtube.com/playlist?list=PLdNh1e1kmiPP4YApJm8ENK2yMlwF1_edq
 kivy best tutorial 
