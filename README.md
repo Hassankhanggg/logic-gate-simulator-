@@ -1,4 +1,5 @@
 # logic-gate-simulator-
+sprite and pygame with kidscancode.com  https://www.youtube.com/playlist?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
 Img moving https://stackoverflow.com/questions/34601588/how-to-move-an-image-with-the-mouse-in-pygame
 ygame to apk 
 https://youtu.be/9JVadDyipNM 
